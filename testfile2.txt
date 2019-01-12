@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-tst data master branch content changed
-=======
 tst data kkkkkkk
->>>>>>> substarter-web
