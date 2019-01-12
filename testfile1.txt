@@ -1,1 +1,1 @@
-testfile1 is changed text
+testfile1 is changed text master has changed content
