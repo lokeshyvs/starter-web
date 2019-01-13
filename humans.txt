@@ -2,7 +2,9 @@ Rebase Branch TEAM changes
 Master branch content changes
 
     <name> -- <role> -- <twitter>
+
 I am adding some text rebasebranch
+Hi, I am modifing the file before rebase in master branch
 
 # THANKS
 
