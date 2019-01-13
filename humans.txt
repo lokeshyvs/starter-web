@@ -1,8 +1,6 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
+Rebase Branch TEAM changes
+Master branch content changes
 
-# TEAM
-	Rebase Branch TEAM changes
     <name> -- <role> -- <twitter>
 
 # THANKS
